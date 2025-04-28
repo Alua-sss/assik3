@@ -52,11 +52,11 @@ The solution fully satisfies the assignment requirements:
 
 ## Key Features
 
-- ✅ No recursion is used anywhere.
-- ✅ Custom hashCode logic.
-- ✅ LinkedList-based chaining for collision handling.
-- ✅ Iterative traversal in HashTable and BST.
-- ✅ Full compatibility with Java Generics (`<K, V>`).
+- No recursion is used anywhere.
+- Custom hashCode logic.
+- LinkedList-based chaining for collision handling.
+- Iterative traversal in HashTable and BST.
+- Full compatibility with Java Generics (`<K, V>`).
 
 ---
 
