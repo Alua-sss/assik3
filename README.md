@@ -1,4 +1,4 @@
-# Assignment 3 - HashTable and BST (No Recursion)
+# Assignment 3 - HashTable and BST 
 
 ## Overview
 This project implements two main data structures in Java:
